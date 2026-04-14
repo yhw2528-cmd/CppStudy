@@ -17,8 +17,8 @@ int main() {
 		else
 			cout << "암호가 틀립니다~~" << endl;
 	}
-}*/
-
+}
+*/
 //2번
 /*
 int main() {
